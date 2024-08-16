@@ -1,0 +1,78 @@
+--- Folder Layout ---
+.DS_Store
+[.git] (...)
+.gitignore
+README.md
+[node_modules] (...)
+package-lock.json
+package.json
+project_layout.txt
+[public]
+    ├── favicon.ico
+    ├── index.html
+    ├── logo192.png
+    ├── logo512.png
+    ├── manifest.json
+    └── robots.txt
+[src]
+    ├── .DS_Store
+    ├── .Rhistory
+    ├── App.css
+    ├── App.js
+    ├── GlobalStyles.css
+    ├── [components]
+        ├── BrandIntro.js
+        ├── Cart.js
+        ├── ContactForm.js
+        ├── Filter.js
+        ├── Login.js
+        ├── PriceSlider.js
+        ├── ProductItem.js
+        ├── ProductList.js
+        ├── ProductListHeader.js
+        ├── ProfileCard.js
+        └── SignUp.js
+    ├── [css]
+        ├── BrandIntro.css
+        ├── Cart.css
+        ├── CheckoutPage.css
+        ├── ContactForm.css
+        ├── Filter.css
+        ├── HomePage.css
+        ├── Login.css
+        ├── PriceSlider.css
+        ├── ProductItem.css
+        ├── ProductList.css
+        ├── ProductListHeader.css
+        ├── ProductPage.css
+        ├── ProfileCard.css
+        └── SignUp.css
+    ├── [data]
+        └── products.js
+    ├── index.css
+    ├── index.js
+    ├── [media]
+        ├── .DS_Store
+        ├── brand-image.png
+        ├── example.jpg
+        ├── prod 1.jpg
+        ├── prod 10.jpg
+        ├── prod 11.jpg
+        ├── prod 12.jpg
+        ├── prod 13.jpg
+        ├── prod 14.jpg
+        ├── prod 15.jpg
+        ├── prod 16.jpg
+        ├── prod 2.jpg
+        ├── prod 3.jpg
+        ├── prod 4.jpg
+        ├── prod 5.jpg
+        ├── prod 6.jpg
+        ├── prod 7.jpg
+        ├── prod 8.jpg
+        └── prod 9.jpg
+    └── [pages]
+        ├── CheckoutPage.js
+        ├── ContactPage.js
+        ├── HomePage.js
+        └── ProductPage.js
